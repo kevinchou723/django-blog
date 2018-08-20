@@ -1,3 +1,6 @@
+# The purpose of this project is to learn how to create a Django web app
+## The source of learning is from https://tutorial.djangogirls.org/en/
+
 # Commands To Start Django App
 
 ## Create Virtual Environment
