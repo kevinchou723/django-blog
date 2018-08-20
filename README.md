@@ -35,3 +35,6 @@
 
 ## Create super user to login at /admin
 ```python manage.py createsuperuser```
+
+## Open Django shell
+```python manage.py shell```
